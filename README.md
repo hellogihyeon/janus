@@ -7,8 +7,7 @@
 
 - 📖 Studying programming, penetration hacking, electronic engineering, and communication engineering
   **ㅤ프로그래밍, 정보보안, 전자공학, 통신공학**
-- 📡 The KARL Emergency Radio Communication Support Corps (K.E.R.S) 
-  **한국 재난통신지원단(K.E.R.S) 소속**
+  **인천 전자 마이스터고등학교 사이버보안 전공심화동아리원 소속**
 
 #### 🛠  Skil & Stacks
 
@@ -58,23 +57,12 @@
 | Contest Name                                          | Awards                                                                                                                                                               | Team   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | ✅**Suseo Youth Maker Contest** (2022)        | Won the Encouragement Award (Yonsei University, Korea I7 Representative Award) 장려상(연세대학교 I7단장상) | KRONOS |
-| ✅**Korea Code Fair** (2022)                | Won the 2022 Korea Code Fair Grand Prize (Prime Minister's Award)   2022 한국코드페어 고등부 대상(국무총리상)     | KRONOS |
-| ✅**GBSW Idea Bank Competition** (2022)     | Won the 2023 GBSW Idea Bank Competition (1st) GBSW 아이디어뱅크 공모전(1위)     | Snoo.py |
-| ✅**2023 AppJam Hackathon** (2023)            | Won the 2023 AppJam hackathon   2023 알파코 앱잼 해커톤 미래AI 부분 최우수상    | AJ23 |
-| ✅**2023 ICT Assistive Technology** (2023)      | Won the 2023 ICT Assistive Technology Device Contest (2nd Prize)   2023 ICT 장애인 보조공학기기 공모전 최우수상    | Snoo.py |
-| ✅**2023 Korea CANSAT Competition** (2023)            | Won the 2023 Korea CANSAT Competition (Korea Aerospace Research Institute Director’s Award)   2023 Korea Kaist 캔위성 경연대회 장려상    | Snoo.py |
-| ✅**Suseo Youth Maker Contest** (2023)        | Won the Grand Prize Award (2nd Prize) 청소년 메이커 경진대회 최우수상  | Snoo.py |
-| ✅**National Student Design Competition** (2023)     |  Won the High School Gold Award Winner(3nd Prize) 전국학생설계경진대회 금상 | Snoo.py |
-| ✅**I&D Project Competition** (2023)     |  Won the Gyeongbuk Office of Education I&D Project Competition 경북교육청 I&D 프로젝트 경진 대화 장려상| Snoo.py |
-| ✅**GBSW Startup Competition** (2023)    | Won the GBSW Startup Competition (1nd Prize) GBSW 창업 경진대회 최우수상(1위)  | Snoo.py |
-| ✅**Hyundai AutoEver WhiterHacker Competition** (2023)    | Won the Hyundai AutoEver WhiterHacker Competition (3nd Prize) GBSW 현대 정보보안 경진대회(3위)  | Me |
-| ✅**SW-AI Creative Convergence Hackatone** (2023)     |  Won the SW-AI Creative Convergence Competition(1nd Prize) 경북교육청 SW-AI 해커톤(1위) | Snoo.py |
 
 
 ### 📚 Security Activity
-| Security Activity                                          | CVE/KVE                                                                                                                                                               | Explanation   |
+| Security Activity                                          | 123                                                                                                                                                               | 123456   |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Vulnerability |
+| Korea Internet Post Office Online Site Vulnerability (2023) | KVE-2023-0307 | Site Parameter Vulnerabilit |
 
 
 <div align="center">
@@ -111,14 +99,12 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Server Fault-E7282D?style=flat&logo=Server Fault&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
   <br>
   <br>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+
 
 </p>
 
